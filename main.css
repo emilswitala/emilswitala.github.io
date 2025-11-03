@@ -1,4 +1,70 @@
 .page1 body {
+.page3 h1 {
+
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+.page3 img {
+
+    width: 450px;
+    height: 450px;
+    border: 5px solid rgb(127, 133, 192);
+    margin: 1cm
+   
+}
+
+.page3 img:hover {
+    transform: scale(1.05);}
+
+    .page4  {
+        background-color: rgb(42, 195, 255);
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    .page4 input, select {
+        background-color: rgb(42, 195, 255);
+        border-radius: 3px;
+        font-size: 25px;
+    }
+    
+    .page4 #btn {
+        background-color: rgb(42, 195, 255);
+        font-size: 24px;
+        margin: 7,8 
+        
+    }
+    .page4 #btn {
+        background-color: rgb(42, 195, 255);
+        font-size: 24px;
+        margin: 7,8 }
+
+        .page5 #tak {
+            border: 2px solid black;
+            width: 250px;
+            margin-left: 42%;
+            
+            
+        }
+        
+        .page5 h1{
+            text-align: center;
+            font-size: 40px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin-bottom: 37,8;
+        }
+        
+        .page5 #nie {
+           
+            margin-left: 43%;
+            
+            
+        }
+            
+        
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
