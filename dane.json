@@ -1,22 +1,22 @@
 [
     {
-      "name": "Mercury",
-      "diameter": 4879,
-      "has_rings": false
+      "name": "Pokemon GO",
+      "gameSizeInMB": 60,
+      "mobileVersion": true
     },
     {
-      "name": "Venus",
-      "diameter": 12104,
-      "has_rings": false
+      "name": "Ingress",
+      "gameSizeInGB": 10,
+      "mobileVersion": true
     },
     {
-      "name": "Earth",
-      "diameter": 12742,
-      "has_rings": false
+      "name": "Jurassic World Alive",
+      "gameSizeInGB": 30,
+      "mobileVersion": true
     },
     {
-      "name": "Mars",
-      "diameter": 6779,
-      "has_rings": "No"
+      "name": "VRChat",
+      "gameSizeInGB": 60,
+      "mobileVersion": false
     }
   ]

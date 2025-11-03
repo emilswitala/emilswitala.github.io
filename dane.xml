@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<smartphones>
+<gryVR>
 
-    <smartphone brand="Samsung">
-        <screenSize unit="inch">6.2</screenSize>
-        <batteryCapacity unit="mAh">3700</batteryCapacity>
-        <storage unit="GB">256</storage>
-    </smartphone>
+    <gra platform="mobile">
+        <gameSize unit="MB">60</gameSize>
+        <name>Pokemon GO</name>
+        <release>July 6 2016</release>
+        <engine>unity</engine>
+    </gra>
 
-    <smartphone brand="Samsung">
-        <screenSize unit="inch">6.2</screenSize>
-        <batteryCapacity unit="mAh">3700</batteryCapacity>
-        <storage unit="GB">256</storage>
-    </smartphone>
+    <gra platform="mobile">
+        <gameSize unit="GB">10</gameSize>
+        <name>Ingress</name>
+        <release>December 14 2013</release>
+        <engine>unity</engine>
+    </gra>
 
-    <smartphone brand="Samsung">
-        <screenSize unit="inch">6.2</screenSize>
-        <batteryCapacity unit="mAh">3700</batteryCapacity>
-        <storage unit="GB">256</storage>
-    </smartphone>
+    <gra platform="mobile">
+        <gameSize unit="GB">30</gameSize>
+        <name>Jurssic World Alive</name>
+        <release>March 14 2018</release>
+        <engine>unity</engine>
+    </gra>
 
-    <smartphone brand="Samsung">
-        <screenSize unit="inch">6.2</screenSize>
-        <batteryCapacity unit="mAh">3700</batteryCapacity>
-        <storage unit="GB">256</storage>
-    </smartphone>
-
-</smartphones>
+</gryVR>
