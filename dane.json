@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Pokemon GO",
+      "gameSizeInMB": 60,
+      "mobileVersion": true
+    },
+    {
+      "name": "Ingress",
+      "gameSizeInGB": 10,
+      "mobileVersion": true
+    },
+    {
+      "name": "Jurassic World Alive",
+      "gameSizeInGB": 30,
+      "mobileVersion": true
+    },
+    {
+      "name": "VRChat",
+      "gameSizeInGB": 60,
+      "mobileVersion": false
+    }
+  ]

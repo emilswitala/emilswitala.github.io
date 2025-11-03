@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gryVR>
+
+    <gra platform="mobile">
+        <gameSize unit="MB">60</gameSize>
+        <name>Pokemon GO</name>
+        <release>July 6 2016</release>
+        <engine>unity</engine>
+    </gra>
+
+    <gra platform="mobile">
+        <gameSize unit="GB">10</gameSize>
+        <name>Ingress</name>
+        <release>December 14 2013</release>
+        <engine>unity</engine>
+    </gra>
+
+    <gra platform="mobile">
+        <gameSize unit="GB">30</gameSize>
+        <name>Jurssic World Alive</name>
+        <release>March 14 2018</release>
+        <engine>unity</engine>
+    </gra>
+
+</gryVR>
