@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Mercury",
+      "diameter": 4879,
+      "has_rings": false
+    },
+    {
+      "name": "Venus",
+      "diameter": 12104,
+      "has_rings": false
+    },
+    {
+      "name": "Earth",
+      "diameter": 12742,
+      "has_rings": false
+    },
+    {
+      "name": "Mars",
+      "diameter": 6779,
+      "has_rings": "No"
+    }
+  ]

@@ -1,60 +1,61 @@
-body {
+.page1 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-a:hover {
-    color: #7f30e7; 
+.page1 a:hover {
+    color: #7ebef3; 
 }
 
-p {
+.page1 p {
     text-align: justify;
-    margin-bottom: 24px;
+    margin-bottom: 38px;
+    margin-top: 38px;
 }
 
-nav ul {
+.page1 nav ul {
     margin: 30px;
     padding: 0;
-    display: block;
+    display: none;
     text-align: justify;
 }
 
-.content {
+.page1 content {
     padding: 32px;
 }
 
-.title {
+.page1 title {
     text-align: center;
     font-size: 40px;
     margin-bottom: 32px;
     color: green
 }
 
-.columns {
+.page1 columns {
     display: flex;
     justify-content: space-between;
     gap: 32px;
     margin-top: 32px;
 }
 
-.column {
+.page1 column {
     flex: 1;
     background-color: #f4f4f4;
     padding: 16px;
     border-radius: 8px;
 }
-.column h2 {
+.page1 column h2 {
     font-size: 24px;
     margin-bottom: 16px;
 }
 
-.links {
+.page1 links {
     margin-top: 32px;
 }
 
-.links a {
+.page1 links a {
     display: block;
     margin: 10px 0;
     font-size: 17.6px;
