@@ -1,4 +1,4 @@
-.page1 body {
+
 .page3 h1 {
 
     text-align: center;
@@ -64,7 +64,7 @@
         }
             
         
-body {
+.page1 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
